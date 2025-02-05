@@ -1,6 +1,9 @@
 # Suporte de Puxador de Porta - Guarda-Roupas
 
 Este modelo 3D foi criado no OpenSCAD com o objetivo de substituir o suporte de puxador de porta de um guarda-roupas. O modelo foi projetado para ser fácil de ajustar de acordo com as dimensões do puxador original e pode ser impresso em 3D para fabricação.
+
+![Suporte de Puxador de Porta](images/peca02.png)
+
 ![Suporte de Puxador de Porta](images/peca01.png)
 
 ## Objetivo
