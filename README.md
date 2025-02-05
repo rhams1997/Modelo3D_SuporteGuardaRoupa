@@ -47,6 +47,6 @@ Sinta-se à vontade para contribuir para este projeto, seja fazendo ajustes para
 
 ## Licença
 
-Este modelo está disponível sob a licença [inserir tipo de licença]. 
+Este modelo está disponível sob a licença [GLP-3.0]. 
 
 
